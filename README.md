@@ -1,2 +1,2 @@
 #My workspace
-This is myy git repo for day to day coding :)
+This is my git repo for day to day coding :)
